@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cat-friends-react.js-app/static/css/main.526bc350.chunk.css",
+    "main.js": "/cat-friends-react.js-app/static/js/main.ff99f4cf.chunk.js",
+    "main.js.map": "/cat-friends-react.js-app/static/js/main.ff99f4cf.chunk.js.map",
+    "runtime-main.js": "/cat-friends-react.js-app/static/js/runtime-main.943ec85a.js",
+    "runtime-main.js.map": "/cat-friends-react.js-app/static/js/runtime-main.943ec85a.js.map",
+    "static/js/2.42cb6540.chunk.js": "/cat-friends-react.js-app/static/js/2.42cb6540.chunk.js",
+    "static/js/2.42cb6540.chunk.js.map": "/cat-friends-react.js-app/static/js/2.42cb6540.chunk.js.map",
+    "static/js/3.8ecbb277.chunk.js": "/cat-friends-react.js-app/static/js/3.8ecbb277.chunk.js",
+    "static/js/3.8ecbb277.chunk.js.map": "/cat-friends-react.js-app/static/js/3.8ecbb277.chunk.js.map",
+    "index.html": "/cat-friends-react.js-app/index.html",
+    "static/css/main.526bc350.chunk.css.map": "/cat-friends-react.js-app/static/css/main.526bc350.chunk.css.map",
+    "static/js/2.42cb6540.chunk.js.LICENSE.txt": "/cat-friends-react.js-app/static/js/2.42cb6540.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.943ec85a.js",
+    "static/js/2.42cb6540.chunk.js",
+    "static/css/main.526bc350.chunk.css",
+    "static/js/main.ff99f4cf.chunk.js"
+  ]
+}
