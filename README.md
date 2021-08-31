@@ -15,5 +15,8 @@
 ---
 - https://jsonplaceholder.typicode.com/users
 
+## Deploying React APP
+- https://create-react-app.dev/docs/deployment/#github-pages
+
 
 
