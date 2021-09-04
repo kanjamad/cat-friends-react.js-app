@@ -15,3 +15,10 @@
 .card-container:hover {
     transform: scale(1.05);
 }
+
+span {
+    color: palevioletred;
+    margin: 0.5 rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
